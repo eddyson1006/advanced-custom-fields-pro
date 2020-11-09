@@ -1,0 +1,10 @@
+{
+  "name": "eddyson1006/advanced-custom-fields-pro",
+  "description": "Mirror of offical ACF Pro",
+  "type": "wordpress-plugin",
+  "license": "proprietary",
+  "require": {
+  "php": ">=5.6",
+  "composer/installers": "~1.0.12"
+  }
+}
